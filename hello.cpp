@@ -4,6 +4,6 @@ int main()
 {
   cout<<"Hello_world\n";
   cout<<"Experimenting\n";
-  cout<<"Expreiment @\n";
+  cout<<"experiment @\n";
   cout<<"Final_Experiment\n";
 }
